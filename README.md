@@ -11,7 +11,6 @@ The app is built with the **Spring Framework**, including **Spring Web** and **S
 - Manage employee data with basic Spring JPA CRUD operations.
 - H2 in-memory database for testing and development.
 - Creates a custom READ Function.
-- 
 ---
 
 ## Technologies
