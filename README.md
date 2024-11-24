@@ -1,4 +1,4 @@
-# Employee Management CRUD App
+# Employee Management Spring JPA CRUD App
 
 ## Overview
 This is a simple Spring JPA application to manage employee information using CRUD (Create, Read, Update, Delete) operations. It uses Spring JPA and an **H2 in-memory database**  for data storage.
